@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="Conexant_CX20561__Hermosa_-Internal_Mic_Boost" mtime="1475873423" type="string">
+		<stringvalue>Internal</stringvalue>
+	</entry>
+	<entry name="Conexant_CX20561__Hermosa_-Capture" mtime="1475873423" type="string">
+		<stringvalue>Capture</stringvalue>
+	</entry>
+	<entry name="Conexant_CX20561__Hermosa_-Beep" mtime="1475873423" type="string">
+		<stringvalue>Beep</stringvalue>
+	</entry>
+	<entry name="Conexant_CX20561__Hermosa_-Mic_Boost" mtime="1475873423" type="string">
+		<stringvalue>Mic Boos</stringvalue>
+	</entry>
+	<entry name="Conexant_CX20561__Hermosa_-PCM" mtime="1475873423" type="string">
+		<stringvalue>PCM</stringvalue>
+	</entry>
+	<entry name="Conexant_CX20561__Hermosa_-Speaker" mtime="1475873423" type="string">
+		<stringvalue>Speaker</stringvalue>
+	</entry>
+	<entry name="Conexant_CX20561__Hermosa_-Headphone" mtime="1475873423" type="string">
+		<stringvalue>Headphon</stringvalue>
+	</entry>
+	<entry name="Conexant_CX20561__Hermosa_-Master" mtime="1475873423" type="string">
+		<stringvalue>Master</stringvalue>
+	</entry>
+</gconf>

@@ -1,0 +1,11 @@
+{
+	"font_face": "System San Francisco Display",
+	"font_size": 9,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+
+	"theme": "Numix Dark.sublime-theme",
+	"numix_folder_icons": true
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="Conexant_CX20561__Hermosa_-Auto-Mute_Mode" mtime="1475873424" type="bool" value="true"/>
+	<entry name="Conexant_CX20561__Hermosa_-IEC958_Default_PCM" mtime="1475873424" type="bool" value="true"/>
+	<entry name="Conexant_CX20561__Hermosa_-IEC958" mtime="1475873423" type="bool" value="true"/>
+</gconf>
