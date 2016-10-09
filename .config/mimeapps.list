@@ -1,9 +1,0 @@
-[Added Associations]
-video/mp4=bomi.desktop;vlc.desktop;
-audio/mpeg=audacious.desktop;lxmusic.desktop;
-image/jpeg=gpicview.desktop;
-image/png=gpicview.desktop;
-application/x-bittorrent=qBittorrent.desktop;
-application/x-shellscript=sublime_text_3.desktop;
-application/pdf=evince.desktop;
-application/xml=chromium.desktop;
